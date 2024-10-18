@@ -1,0 +1,58 @@
+preço
+
+self.l_data = [
+            {'price': 19.63, 'category': 'mystery'},
+            {'price': 17.28, 'category': 'historical fiction'},
+            {'price': 15.08, 'category': 'classics'},
+            {'price': 15.97, 'category': 'romance'},
+            {'price': 10.60, 'category': 'fiction'}
+        ]
+
+        self.dl_data = [
+            {'price': 23.63, 'category': 'mystery'},
+            {'price': 54.28, 'category': 'historical fiction'},
+            {'price': 49.08, 'category': 'classics'},
+            {'price': 35.97, 'category': 'romance'},
+            {'price': 26.60, 'category': 'fiction'}
+        ]
+
+
+categoria e preço
+
+self.l_data = [
+            {'price': 19.63, 'category': 'mystery'},
+            {'price': 17.28, 'category': 'mystery'},
+            {'price': 15.08, 'category': 'fiction'},
+            {'price': 15.97, 'category': 'fiction'},
+            {'price': 10.60, 'category': 'fiction'}
+        ]
+
+        self.dl_data = [
+            {'price': 43.63, 'category': 'mystery'},
+            {'price': 54.28, 'category': 'historical fiction'},
+            {'price': 49.08, 'category': 'classics'},
+            {'price': 22.97, 'category': 'music'},
+            {'price': 26.60, 'category': 'fiction'}
+        ]
+
+
+categoria
+
+self.l_data = [
+            {'price': 23.63, 'category': 'mystery'},
+            {'price': 45.28, 'category': 'mystery'},
+            {'price': 15.08, 'category': 'fiction'},
+            {'price': 33.97, 'category': 'fiction'},
+            {'price': 10.60, 'category': 'fiction'}
+        ]
+
+        self.dl_data = [
+            {'price': 43.63, 'category': 'art'},
+            {'price': 13.28, 'category': 'poetry'},
+            {'price': 49.08, 'category': 'classics'},
+            {'price': 22.97, 'category': 'music'},
+            {'price': 26.60, 'category': 'religion'}
+        ]
+
+        
+        
